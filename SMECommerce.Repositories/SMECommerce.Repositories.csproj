@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SMECommerce.Databases\SMECommerce.Databases.csproj" />
+    <ProjectReference Include="..\SMECommerce.Repositories.Abstractions\SMECommerce.Repositories.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>

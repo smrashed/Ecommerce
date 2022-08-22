@@ -1,0 +1,50 @@
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.deps.json
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.pdb
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.AssemblyInfo.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.pdb
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.deps.json
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.pdb
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.AssemblyInfo.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.pdb
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.deps.json
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.pdb
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.csproj.AssemblyReference.cache
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.AssemblyInfoInputs.cache
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.AssemblyInfo.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.csproj.CopyComplete
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.pdb
+E:\NetcoreProjects\Ecommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.deps.json
+E:\NetcoreProjects\Ecommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.dll
+E:\NetcoreProjects\Ecommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.pdb
+E:\NetcoreProjects\Ecommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+E:\NetcoreProjects\Ecommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+E:\NetcoreProjects\Ecommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.csproj.AssemblyReference.cache
+E:\NetcoreProjects\Ecommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+E:\NetcoreProjects\Ecommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.AssemblyInfoInputs.cache
+E:\NetcoreProjects\Ecommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.AssemblyInfo.cs
+E:\NetcoreProjects\Ecommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.csproj.CoreCompileInputs.cache
+E:\NetcoreProjects\Ecommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.csproj.CopyComplete
+E:\NetcoreProjects\Ecommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.dll
+E:\NetcoreProjects\Ecommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.pdb

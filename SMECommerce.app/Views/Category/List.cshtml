@@ -1,0 +1,74 @@
+﻿
+@model SMECommerce.app.Models.CategoryModels.CategoryListVm
+
+@{ 
+    //List<Category> categoryList = ViewBag.CategoryList;
+    int serialNo = 0;
+}
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">
+            @Model.Title
+        </h3>
+    </div>
+    <div class="card-body">
+        @Model.Description
+    </div>
+    
+</div>
+
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">Category List</h3>
+        <div class="card-tools">
+            <a class="btn btn-primary" asp-action="Create">Create</a>
+        </div>
+    </div>
+    <!-- /.card-header -->
+    <div class="card-body">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th style="width: 10px">#</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Code</th>
+                    <th style="width: 40px">Edit</th>
+                    <th style="width: 40px">Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var category in Model.CategoryList)
+                {
+                    <tr>
+                        <td>@(++serialNo)</td>
+                        <td>@category.Name</td>>
+                        <td>@category.Description</td>>
+                        <td>@category.Code</td>
+                        <td>
+                          <a class="badge bg-warning" asp-action="Edit" asp-route-id="@category.Id">Edit</a>
+                        </td>
+                        <td>
+                          <a class="badge bg-danger" asp-action="Delete" asp-route-id="@category.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+
+
+
+            </tbody>
+        </table>
+    </div>
+    <!-- /.card-body -->
+    <div class="card-footer clearfix">
+        <ul class="pagination pagination-sm m-0 float-right">
+            <li class="page-item"><a class="page-link" href="#">&laquo;</a></li>
+            <li class="page-item"><a class="page-link" href="#">1</a></li>
+            <li class="page-item"><a class="page-link" href="#">2</a></li>
+            <li class="page-item"><a class="page-link" href="#">3</a></li>
+            <li class="page-item"><a class="page-link" href="#">&raquo;</a></li>
+        </ul>
+    </div>
+</div>

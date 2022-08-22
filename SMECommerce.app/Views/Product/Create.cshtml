@@ -1,0 +1,46 @@
+﻿@model SMECommerce.app.Models.ProductModels.ProductCreate
+
+<div class="card card-primary">
+    <div class="card-header">
+        <h3 class="card-title">Product Create</h3>
+    </div>
+    <!-- /.card-header -->
+    <!-- form start -->
+    <form method="post" enctype="multipart/form-data">
+        <div class="card-body">
+            <div class="form-group">
+                <label for="category">Category</label>
+                @Html.DropDownListFor(m => m.CategoryId, Model.Categories, "Select a category", new { @class = "form-control" })
+
+            </div>
+            <div class="form-group">
+                <label asp-for="Name">Name</label>
+                <input asp-for="Name" class="form-control" placeholder="Name" />
+                
+            </div>
+            <div class="form-group">
+                <label asp-for="Price">Price</label>
+                <input asp-for="Price" class="form-control" placeholder="Price" />
+            </div>
+            <div class="form-group">
+                <label asp-for="ManufacturerDate">Manufacture Date</label>
+                <input asp-for="ManufacturerDate" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Description">Description</label>
+                <textarea asp-for="Description" class="form-control" placeholder="Description"></textarea>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProductPhoto">Photo</label>
+                <input asp-for="ProductPhoto" class="form-control-file">
+                @*<span asp-validation-for="ProductPhoto" class="text-danger"></span>*@
+            </div>
+
+        </div>
+        <!-- /.card-body -->
+
+        <div class="card-footer">
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+    </form>
+</div>

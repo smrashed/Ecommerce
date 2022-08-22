@@ -1,0 +1,19 @@
+﻿@model RegisterViewModel
+
+
+<h4>Login</h4>
+
+<form method="post">
+    <p>
+        Username: <input asp-for="Email" />
+    </p>
+    <p>
+        Password: <input asp-for="Password" />
+    </p>
+    <p>
+        Confirm Password: <input asp-for="ConfirmPassword" />
+    </p>
+    <p>
+        <input type="submit" value="Register"/>
+    </p>
+</form>

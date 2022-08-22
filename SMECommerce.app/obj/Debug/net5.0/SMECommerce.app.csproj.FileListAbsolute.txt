@@ -1,0 +1,1158 @@
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\appsettings.json
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.exe
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.deps.json
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.runtimeconfig.json
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.runtimeconfig.dev.json
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ref\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.pdb
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.Views.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.Views.pdb
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.AssemblyReference.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.AssemblyInfoInputs.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.AssemblyInfo.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.CoreCompileInputs.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorAssemblyInfo.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorAssemblyInfo.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\staticwebassets\SMECommerce.app.StaticWebAssets.Manifest.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\staticwebassets\SMECommerce.app.StaticWebAssets.xml
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\scopedcss\bundle\SMECommerce.app.styles.css
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.TagHelpers.input.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.TagHelpers.output.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorCoreGenerate.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorTargetAssemblyInfo.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorTargetAssemblyInfo.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.Views.pdb
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\ref\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.pdb
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.genruntimeconfig.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.CopyComplete
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Address\Contact.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Models\ViewModels\Address.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Action\SomeAction.cshtml.g.cs
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\appsettings.json
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.exe
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Models\ViewModels\Address.cs
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.deps.json
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.runtimeconfig.json
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.runtimeconfig.dev.json
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ref\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.pdb
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.Views.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.Views.pdb
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.AssemblyReference.cache
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.AssemblyInfoInputs.cache
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.AssemblyInfo.cs
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.CoreCompileInputs.cache
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorAssemblyInfo.cache
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorAssemblyInfo.cs
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\staticwebassets\SMECommerce.app.StaticWebAssets.Manifest.cache
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\staticwebassets\SMECommerce.app.StaticWebAssets.xml
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\scopedcss\bundle\SMECommerce.app.styles.css
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.TagHelpers.input.cache
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.TagHelpers.output.cache
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorCoreGenerate.cache
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Action\SomeAction.cshtml.g.cs
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Address\Contact.cshtml.g.cs
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorTargetAssemblyInfo.cache
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorTargetAssemblyInfo.cs
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.Views.pdb
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\ref\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.pdb
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.genruntimeconfig.cache
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.CopyComplete
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Databases.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Models.dll
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Databases.pdb
+C:\Users\Rashed\Desktop\ASP.NET core MVC\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Models.pdb
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\appsettings.json
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.exe
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Models\ViewModels\Address.cs
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.deps.json
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.runtimeconfig.json
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.runtimeconfig.dev.json
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ref\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.pdb
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.Views.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.Views.pdb
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Databases.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Models.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Databases.pdb
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Models.pdb
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.AssemblyReference.cache
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.AssemblyInfoInputs.cache
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.AssemblyInfo.cs
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.CoreCompileInputs.cache
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorAssemblyInfo.cache
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorAssemblyInfo.cs
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\staticwebassets\SMECommerce.app.StaticWebAssets.Manifest.cache
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\staticwebassets\SMECommerce.app.StaticWebAssets.xml
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\scopedcss\bundle\SMECommerce.app.styles.css
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.TagHelpers.input.cache
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.TagHelpers.output.cache
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorCoreGenerate.cache
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Action\SomeAction.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Address\Contact.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorTargetAssemblyInfo.cache
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorTargetAssemblyInfo.cs
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.Views.pdb
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.CopyComplete
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\ref\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.pdb
+C:\Users\Rashed\Desktop\Test\backup\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.genruntimeconfig.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\appsettings.json
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.exe
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Models\ViewModels\Address.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.deps.json
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.runtimeconfig.json
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.runtimeconfig.dev.json
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\ref\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.pdb
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.Views.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.Views.pdb
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Databases.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Models.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Databases.pdb
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Models.pdb
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.AssemblyReference.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.AssemblyInfoInputs.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.AssemblyInfo.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.CoreCompileInputs.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorAssemblyInfo.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorAssemblyInfo.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\staticwebassets\SMECommerce.app.StaticWebAssets.Manifest.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\staticwebassets\SMECommerce.app.StaticWebAssets.xml
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\scopedcss\bundle\SMECommerce.app.styles.css
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.TagHelpers.input.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.TagHelpers.output.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorCoreGenerate.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Action\SomeAction.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Address\Contact.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorTargetAssemblyInfo.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorTargetAssemblyInfo.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.Views.pdb
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.CopyComplete
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\ref\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.pdb
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.genruntimeconfig.cache
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Success.cshtml.g.cs
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Repositories.dll
+C:\Users\Rashed\Desktop\Test\ASP.NET_Core_MVC\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Repositories.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\appsettings.json
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.exe
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.deps.json
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.runtimeconfig.json
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.runtimeconfig.dev.json
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\ref\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.Views.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.Views.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Databases.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Models.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Repositories.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Databases.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Repositories.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Models.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.AssemblyReference.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.AssemblyInfoInputs.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.AssemblyInfo.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.CoreCompileInputs.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorAssemblyInfo.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorAssemblyInfo.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\staticwebassets\SMECommerce.app.StaticWebAssets.Manifest.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\staticwebassets\SMECommerce.app.StaticWebAssets.xml
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\scopedcss\bundle\SMECommerce.app.styles.css
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.TagHelpers.input.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.TagHelpers.output.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorCoreGenerate.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Success.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorTargetAssemblyInfo.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorTargetAssemblyInfo.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.Views.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.CopyComplete
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\ref\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.genruntimeconfig.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\_ViewStart.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\_ViewStart.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Success.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce_beta\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\appsettings.json
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.exe
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.deps.json
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.runtimeconfig.json
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.runtimeconfig.dev.json
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ref\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.Views.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.Views.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Databases.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Models.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Repositories.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Services.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Databases.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Repositories.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Services.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Models.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.AssemblyReference.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.AssemblyInfoInputs.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.AssemblyInfo.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.CoreCompileInputs.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorAssemblyInfo.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorAssemblyInfo.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\staticwebassets\SMECommerce.app.StaticWebAssets.Manifest.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\staticwebassets\SMECommerce.app.StaticWebAssets.xml
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\scopedcss\bundle\SMECommerce.app.styles.css
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.TagHelpers.input.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.TagHelpers.output.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorCoreGenerate.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Success.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\_ViewStart.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Success.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\_ViewStart.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorTargetAssemblyInfo.cache
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorTargetAssemblyInfo.cs
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.Views.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.CopyComplete
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\ref\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.pdb
+C:\Users\Rashed\Desktop\Workspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.genruntimeconfig.cache
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\appsettings.json
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.exe
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.deps.json
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.runtimeconfig.json
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.runtimeconfig.dev.json
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ref\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.pdb
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.Views.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.Views.pdb
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Databases.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Models.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Repositories.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Services.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Databases.pdb
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Repositories.pdb
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Services.pdb
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Models.pdb
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.AssemblyReference.cache
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.AssemblyInfoInputs.cache
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.AssemblyInfo.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.CoreCompileInputs.cache
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorAssemblyInfo.cache
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorAssemblyInfo.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\staticwebassets\SMECommerce.app.StaticWebAssets.Manifest.cache
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\staticwebassets\SMECommerce.app.StaticWebAssets.xml
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\scopedcss\bundle\SMECommerce.app.styles.css
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.TagHelpers.input.cache
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.TagHelpers.output.cache
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorCoreGenerate.cache
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Success.cshtml.g.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\_ViewStart.cshtml.g.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Success.cshtml.g.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\_ViewStart.cshtml.g.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorTargetAssemblyInfo.cache
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorTargetAssemblyInfo.cs
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.Views.pdb
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.CopyComplete
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\ref\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.pdb
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.genruntimeconfig.cache
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Repositories.Abstractions.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Services.Abstractions.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Repositories.Abstractions.pdb
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Services.Abstractions.pdb
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.App.Configurations.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.App.Configurations.pdb
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Rashed\Desktop\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\appsettings.json
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.exe
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.deps.json
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.runtimeconfig.json
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.runtimeconfig.dev.json
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ref\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.pdb
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.Views.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.Views.pdb
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.App.Configurations.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Databases.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Models.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Repositories.Abstractions.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Repositories.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Services.Abstractions.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Services.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.App.Configurations.pdb
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Databases.pdb
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Models.pdb
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Repositories.pdb
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Repositories.Abstractions.pdb
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Services.pdb
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Services.Abstractions.pdb
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.AssemblyReference.cache
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.AssemblyInfoInputs.cache
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.AssemblyInfo.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.CoreCompileInputs.cache
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorAssemblyInfo.cache
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorAssemblyInfo.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\staticwebassets\SMECommerce.app.StaticWebAssets.Manifest.cache
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\staticwebassets\SMECommerce.app.StaticWebAssets.xml
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\scopedcss\bundle\SMECommerce.app.styles.css
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.TagHelpers.input.cache
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.TagHelpers.output.cache
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorCoreGenerate.cache
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Success.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\_ViewStart.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Success.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\_ViewStart.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorTargetAssemblyInfo.cache
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorTargetAssemblyInfo.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.Views.pdb
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.CopyComplete
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\ref\SMECommerce.app.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.pdb
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.genruntimeconfig.cache
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\Rashed\Desktop\Professional\ASP.NET_Core_MVC_with_ Angular_and _EF_Core\TrainnigWorkspace\ASP.NET_Core_MVC\Practice\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\appsettings.json
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.StaticWebAssets.xml
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.exe
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.deps.json
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.runtimeconfig.json
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.runtimeconfig.dev.json
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.pdb
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.Views.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.app.Views.pdb
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Humanizer.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.App.Configurations.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Databases.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Models.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Repositories.Abstractions.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Repositories.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Services.Abstractions.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Services.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.App.Configurations.pdb
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Databases.pdb
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Models.pdb
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Repositories.pdb
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Repositories.Abstractions.pdb
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Services.pdb
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\bin\Debug\net5.0\SMECommerce.Services.Abstractions.pdb
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.AssemblyReference.cache
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.AssemblyInfoInputs.cache
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.AssemblyInfo.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.CoreCompileInputs.cache
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorAssemblyInfo.cache
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorAssemblyInfo.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\scopedcss\bundle\SMECommerce.app.styles.css
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\staticwebassets\SMECommerce.app.StaticWebAssets.Manifest.cache
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.TagHelpers.input.cache
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.TagHelpers.output.cache
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorCoreGenerate.cache
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\Success.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Category\_ViewStart.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\Success.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Product\_ViewStart.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorTargetAssemblyInfo.cache
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.RazorTargetAssemblyInfo.cs
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.Views.pdb
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.csproj.CopyComplete
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\refint\SMECommerce.app.dll
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.pdb
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\SMECommerce.app.genruntimeconfig.cache
+C:\Users\rashed\Desktop\SMECommerce\SMECommerce.app\obj\Debug\net5.0\ref\SMECommerce.app.dll
