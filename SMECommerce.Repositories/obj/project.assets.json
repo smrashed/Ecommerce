@@ -7374,11 +7374,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Repositories\\SMECommerce.Repositories.csproj",
+      "projectUniqueName": "E:\\MyProjects\\SMECommerce\\SMECommerce.Repositories\\SMECommerce.Repositories.csproj",
       "projectName": "SMECommerce.Repositories",
-      "projectPath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Repositories\\SMECommerce.Repositories.csproj",
+      "projectPath": "E:\\MyProjects\\SMECommerce\\SMECommerce.Repositories\\SMECommerce.Repositories.csproj",
       "packagesPath": "C:\\Users\\rashed\\.nuget\\packages\\",
-      "outputPath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Repositories\\obj\\",
+      "outputPath": "E:\\MyProjects\\SMECommerce\\SMECommerce.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rashed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7395,11 +7395,11 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Databases\\SMECommerce.Databases.csproj": {
-              "projectPath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Databases\\SMECommerce.Databases.csproj"
+            "E:\\MyProjects\\SMECommerce\\SMECommerce.Databases\\SMECommerce.Databases.csproj": {
+              "projectPath": "E:\\MyProjects\\SMECommerce\\SMECommerce.Databases\\SMECommerce.Databases.csproj"
             },
-            "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj": {
-              "projectPath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj"
+            "E:\\MyProjects\\SMECommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj": {
+              "projectPath": "E:\\MyProjects\\SMECommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj"
             }
           }
         }

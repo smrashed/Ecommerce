@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1gTMYnh0biMSbHjLd2jQPzoYPHGbr17hSTujd220taEIT6efQN/UYVHlyWdsk+xamMOtXEz5bnw1HLaN3s0RlA==",
+  "dgSpecHash": "TaWpOEOL/QTwMM0fFb9oXanVBVsGew9kke2A3iB3vlnn3657f9/mxJ/nenmGcTdjUYkaC8GkOi5lTjwyDTADGg==",
   "success": true,
-  "projectFilePath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Services.Abstractions\\SMECommerce.Services.Abstractions.csproj",
+  "projectFilePath": "E:\\MyProjects\\SMECommerce\\SMECommerce.Services.Abstractions\\SMECommerce.Services.Abstractions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rashed\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.13\\microsoft.aspnetcore.cryptography.internal.5.0.13.nupkg.sha512",
     "C:\\Users\\rashed\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.13\\microsoft.aspnetcore.cryptography.keyderivation.5.0.13.nupkg.sha512",

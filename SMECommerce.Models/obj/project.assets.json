@@ -690,11 +690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Models\\SMECommerce.Models.csproj",
+      "projectUniqueName": "E:\\MyProjects\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj",
       "projectName": "SMECommerce.Models",
-      "projectPath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Models\\SMECommerce.Models.csproj",
+      "projectPath": "E:\\MyProjects\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj",
       "packagesPath": "C:\\Users\\rashed\\.nuget\\packages\\",
-      "outputPath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Models\\obj\\",
+      "outputPath": "E:\\MyProjects\\SMECommerce\\SMECommerce.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rashed\\AppData\\Roaming\\NuGet\\NuGet.Config",

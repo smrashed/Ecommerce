@@ -48,3 +48,16 @@ E:\NetcoreProjects\Ecommerce\SMECommerce.Services.Abstractions\obj\Debug\netstan
 E:\NetcoreProjects\Ecommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.csproj.CopyComplete
 E:\NetcoreProjects\Ecommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.dll
 E:\NetcoreProjects\Ecommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.pdb
+E:\MyProjects\SMECommerce\SMECommerce.Services.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Services.Abstractions.deps.json
+E:\MyProjects\SMECommerce\SMECommerce.Services.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Services.Abstractions.dll
+E:\MyProjects\SMECommerce\SMECommerce.Services.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Services.Abstractions.pdb
+E:\MyProjects\SMECommerce\SMECommerce.Services.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+E:\MyProjects\SMECommerce\SMECommerce.Services.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+E:\MyProjects\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.csproj.AssemblyReference.cache
+E:\MyProjects\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProjects\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.AssemblyInfoInputs.cache
+E:\MyProjects\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.AssemblyInfo.cs
+E:\MyProjects\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.csproj.CoreCompileInputs.cache
+E:\MyProjects\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.csproj.CopyComplete
+E:\MyProjects\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.dll
+E:\MyProjects\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.pdb

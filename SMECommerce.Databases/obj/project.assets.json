@@ -7430,11 +7430,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Databases\\SMECommerce.Databases.csproj",
+      "projectUniqueName": "E:\\MyProjects\\SMECommerce\\SMECommerce.Databases\\SMECommerce.Databases.csproj",
       "projectName": "SMECommerce.Databases",
-      "projectPath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Databases\\SMECommerce.Databases.csproj",
+      "projectPath": "E:\\MyProjects\\SMECommerce\\SMECommerce.Databases\\SMECommerce.Databases.csproj",
       "packagesPath": "C:\\Users\\rashed\\.nuget\\packages\\",
-      "outputPath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Databases\\obj\\",
+      "outputPath": "E:\\MyProjects\\SMECommerce\\SMECommerce.Databases\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rashed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7451,8 +7451,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Models\\SMECommerce.Models.csproj": {
-              "projectPath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Models\\SMECommerce.Models.csproj"
+            "E:\\MyProjects\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj": {
+              "projectPath": "E:\\MyProjects\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj"
             }
           }
         }

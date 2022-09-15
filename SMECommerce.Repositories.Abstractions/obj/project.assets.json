@@ -708,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj",
+      "projectUniqueName": "E:\\MyProjects\\SMECommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj",
       "projectName": "SMECommerce.Repositories.Abstractions",
-      "projectPath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj",
+      "projectPath": "E:\\MyProjects\\SMECommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj",
       "packagesPath": "C:\\Users\\rashed\\.nuget\\packages\\",
-      "outputPath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Repositories.Abstractions\\obj\\",
+      "outputPath": "E:\\MyProjects\\SMECommerce\\SMECommerce.Repositories.Abstractions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rashed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -729,8 +729,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Models\\SMECommerce.Models.csproj": {
-              "projectPath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Models\\SMECommerce.Models.csproj"
+            "E:\\MyProjects\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj": {
+              "projectPath": "E:\\MyProjects\\SMECommerce\\SMECommerce.Models\\SMECommerce.Models.csproj"
             }
           }
         }

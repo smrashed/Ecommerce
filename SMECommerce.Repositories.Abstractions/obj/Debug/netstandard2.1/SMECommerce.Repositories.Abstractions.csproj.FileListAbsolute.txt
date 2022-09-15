@@ -48,3 +48,16 @@ E:\NetcoreProjects\Ecommerce\SMECommerce.Repositories.Abstractions\obj\Debug\net
 E:\NetcoreProjects\Ecommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.csproj.CopyComplete
 E:\NetcoreProjects\Ecommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.dll
 E:\NetcoreProjects\Ecommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.pdb
+E:\MyProjects\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.deps.json
+E:\MyProjects\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.dll
+E:\MyProjects\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.pdb
+E:\MyProjects\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+E:\MyProjects\SMECommerce\SMECommerce.Repositories.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+E:\MyProjects\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.csproj.AssemblyReference.cache
+E:\MyProjects\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProjects\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.AssemblyInfoInputs.cache
+E:\MyProjects\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.AssemblyInfo.cs
+E:\MyProjects\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.csproj.CoreCompileInputs.cache
+E:\MyProjects\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.csproj.CopyComplete
+E:\MyProjects\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.dll
+E:\MyProjects\SMECommerce\SMECommerce.Repositories.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Repositories.Abstractions.pdb

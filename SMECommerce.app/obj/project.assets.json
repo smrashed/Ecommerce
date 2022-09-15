@@ -7503,11 +7503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.app\\SMECommerce.app.csproj",
+      "projectUniqueName": "E:\\MyProjects\\SMECommerce\\SMECommerce.app\\SMECommerce.app.csproj",
       "projectName": "SMECommerce.app",
-      "projectPath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.app\\SMECommerce.app.csproj",
+      "projectPath": "E:\\MyProjects\\SMECommerce\\SMECommerce.app\\SMECommerce.app.csproj",
       "packagesPath": "C:\\Users\\rashed\\.nuget\\packages\\",
-      "outputPath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.app\\obj\\",
+      "outputPath": "E:\\MyProjects\\SMECommerce\\SMECommerce.app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rashed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7524,8 +7524,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.App.Configurations\\SMECommerce.App.Configurations.csproj": {
-              "projectPath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.App.Configurations\\SMECommerce.App.Configurations.csproj"
+            "E:\\MyProjects\\SMECommerce\\SMECommerce.App.Configurations\\SMECommerce.App.Configurations.csproj": {
+              "projectPath": "E:\\MyProjects\\SMECommerce\\SMECommerce.App.Configurations\\SMECommerce.App.Configurations.csproj"
             }
           }
         }

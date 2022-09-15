@@ -7411,11 +7411,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Services\\SMECommerce.Services.csproj",
+      "projectUniqueName": "E:\\MyProjects\\SMECommerce\\SMECommerce.Services\\SMECommerce.Services.csproj",
       "projectName": "SMECommerce.Services",
-      "projectPath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Services\\SMECommerce.Services.csproj",
+      "projectPath": "E:\\MyProjects\\SMECommerce\\SMECommerce.Services\\SMECommerce.Services.csproj",
       "packagesPath": "C:\\Users\\rashed\\.nuget\\packages\\",
-      "outputPath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Services\\obj\\",
+      "outputPath": "E:\\MyProjects\\SMECommerce\\SMECommerce.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rashed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7432,11 +7432,11 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Repositories\\SMECommerce.Repositories.csproj": {
-              "projectPath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Repositories\\SMECommerce.Repositories.csproj"
+            "E:\\MyProjects\\SMECommerce\\SMECommerce.Repositories\\SMECommerce.Repositories.csproj": {
+              "projectPath": "E:\\MyProjects\\SMECommerce\\SMECommerce.Repositories\\SMECommerce.Repositories.csproj"
             },
-            "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Services.Abstractions\\SMECommerce.Services.Abstractions.csproj": {
-              "projectPath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.Services.Abstractions\\SMECommerce.Services.Abstractions.csproj"
+            "E:\\MyProjects\\SMECommerce\\SMECommerce.Services.Abstractions\\SMECommerce.Services.Abstractions.csproj": {
+              "projectPath": "E:\\MyProjects\\SMECommerce\\SMECommerce.Services.Abstractions\\SMECommerce.Services.Abstractions.csproj"
             }
           }
         }

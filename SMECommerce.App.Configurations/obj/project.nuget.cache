@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LERQmwMC1Vo7sFFbhvV6sJugaiFppe6O5F0i93IV9/maQU2kKY9ane0DNBlYCgNUNrFEWRXx9IULBaZS2l7ojA==",
+  "dgSpecHash": "wjkfcd9boeInrMIqE7Q/LfV5Wf3L6qQEcvIW/tyR/FgA3ChyBemEc54uTTHU6B+2/hMUAP1PeAHzItIaHYKd7g==",
   "success": true,
-  "projectFilePath": "E:\\NetcoreProjects\\Ecommerce\\SMECommerce.App.Configurations\\SMECommerce.App.Configurations.csproj",
+  "projectFilePath": "E:\\MyProjects\\SMECommerce\\SMECommerce.App.Configurations\\SMECommerce.App.Configurations.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rashed\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\rashed\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

@@ -108,3 +108,16 @@ E:\NetcoreProjects\Ecommerce\SMECommerce.Databases\obj\Debug\netstandard2.1\SMEC
 E:\NetcoreProjects\Ecommerce\SMECommerce.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.csproj.CopyComplete
 E:\NetcoreProjects\Ecommerce\SMECommerce.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.dll
 E:\NetcoreProjects\Ecommerce\SMECommerce.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.pdb
+E:\MyProjects\SMECommerce\SMECommerce.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.deps.json
+E:\MyProjects\SMECommerce\SMECommerce.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.dll
+E:\MyProjects\SMECommerce\SMECommerce.Databases\bin\Debug\netstandard2.1\SMECommerce.Databases.pdb
+E:\MyProjects\SMECommerce\SMECommerce.Databases\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+E:\MyProjects\SMECommerce\SMECommerce.Databases\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+E:\MyProjects\SMECommerce\SMECommerce.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.csproj.AssemblyReference.cache
+E:\MyProjects\SMECommerce\SMECommerce.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProjects\SMECommerce\SMECommerce.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.AssemblyInfoInputs.cache
+E:\MyProjects\SMECommerce\SMECommerce.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.AssemblyInfo.cs
+E:\MyProjects\SMECommerce\SMECommerce.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.csproj.CoreCompileInputs.cache
+E:\MyProjects\SMECommerce\SMECommerce.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.csproj.CopyComplete
+E:\MyProjects\SMECommerce\SMECommerce.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.dll
+E:\MyProjects\SMECommerce\SMECommerce.Databases\obj\Debug\netstandard2.1\SMECommerce.Databases.pdb
